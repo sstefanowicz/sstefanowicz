@@ -1,11 +1,24 @@
 ---
-title: "temp_website"
+title: ""
+about:
+  id: intro-heading
+  template: marquee
+  image: images/profilepic.jpeg
+  links:
+    - icon: github
+      href: https://github.com/sstefanowicz
+
 ---
 
-This is a Quarto website.
+:::{#intro-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Introduction
+Hello. My name is Sebastian Stefanowicz. I am originally from Portland, OR and am a current Junior studying Economics and Data Science at Macalester College. 
 
-```{r}
-1 + 1
-```
+## Education
+Macalester College | St. Paul MN <br>
+B.A. in Economics and Data Science | Sept 2022 - Dec 2025
+
+:::
+
+
