@@ -6,11 +6,10 @@ website:
   title: "Sebastian Stefanowicz"
   navbar:
     left:
-      - text: Home
-	href: index.qmd
-      - text: Projects
-	href: projects.qmd
-
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
 
 page-footer:
     left: |
