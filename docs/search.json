@@ -7,6 +7,13 @@
     "text": "Hello. My name is Sebastian Stefanowicz. I am originally from Portland, OR and am a current Junior studying Economics and Data Science at Macalester College.\n\n\n\nMacalester College | St. Paul MN  B.A. in Economics and Data Science | Sept 2022 - Dec 2025"
   },
   {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Sebastian Stefanowicz",
+    "section": "",
+    "text": "Hello. My name is Sebastian Stefanowicz. I am originally from Portland, OR and am a current Junior studying Economics and Data Science at Macalester College."
+  },
+  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Sebastian Stefanowicz",
@@ -14,10 +21,17 @@
     "text": "Macalester College | St. Paul MN  B.A. in Economics and Data Science | Sept 2022 - Dec 2025"
   },
   {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
-    "title": "Sebastian Stefanowicz",
+    "objectID": "projects/ds112/index.html",
+    "href": "projects/ds112/index.html",
+    "title": "COVID-19 tracker",
     "section": "",
-    "text": "Hello. My name is Sebastian Stefanowicz. I am originally from Portland, OR and am a current Junior studying Economics and Data Science at Macalester College."
+    "text": "An R/Shiny app that visualizes COVID-19 cases, hospitalizations, deaths and tests for US states and counties, as well as countries around the world. This app was created by William Norfolk, Robbie Richards and Andreas Handel. Check out the app here. The About section of the app contains more information."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCOVID-19 tracker\n\n\n\nResearch\n\n\nInfectious Disease\n\n\n\nAn R/Shiny app that visualizes COVID-19 data.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
